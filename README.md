@@ -1,3 +1,3 @@
 The Jupyter notebook `AMNSSS_kommentiert.ipynb` contains a computation, that aims to disprove Proposition 2.4 in _<a href="https://doi.org/10.1007/s00454-023-00538-5">Recovery of Plane Curves from Branch Points</a>_ by D. Agostini, H. Markwig, C. Nollau, V. Schleis, J. Sendra-Arranz and B. Sturmfels. Using the <a href="https://www.oscar-system.org">OSCAR</a> computer algebra system, it is shown that the base locus of the discriminant map on the space of ternary quadric forms has at least three irreducible components. Meanwhile, the proposition claims there to be two. 
 
-The notebook was prepared by Tim Burdack and Igor Makhlin as part of Tim Burdack's bachelor's thesis. For this reason, the commentary is in German.
+The notebook was prepared by Tim Burdack and Igor Makhlin as part of Tim Burdack's bachelor's thesis. For this reason, the commentary is in German. The versions used were OSCAR 1.3 and Julia 1.11.
